@@ -1,4 +1,4 @@
 # hello-world
 Just learning few things..
--[] Write readme
--[] Make website public
+- [x] Write readme
+- [] Make website public
